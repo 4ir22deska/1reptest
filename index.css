@@ -1,0 +1,12 @@
+.ramka {
+    border: 3px;
+    border-style: solid;
+    height: 500px;
+    width: 500px;
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+}
